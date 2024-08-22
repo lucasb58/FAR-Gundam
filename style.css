@@ -1,0 +1,10 @@
+body{
+  background-color: olivedrab;
+}
+
+p {
+  height: 100px;
+  width: 600px;
+   font-family: "Courier New", monospace;
+   font-size: 20px
+}
