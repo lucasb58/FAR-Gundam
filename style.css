@@ -1,3 +1,9 @@
 body{
   background-color: yellowgreen;
 }
+
+p {
+  height: 100px;
+  width: 500px;
+}
+
