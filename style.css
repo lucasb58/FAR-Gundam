@@ -11,7 +11,7 @@ p {
    margin: 20 px;
    border-style: dashed;
    width: 800px;
-   height: 450px;
+   
    padding: 15px;
    
       
@@ -26,10 +26,21 @@ img{
 	padding: 10px;
 	border-width: 10 px;
 	border-style: solid;
+	display:inline;
 }
 
-.Img{
+.Img1{
 	
 	float: right
+}
+
+.Img2{
+	
+	float: right
+}
+
+.Img3{
+	
+	float: left
 }
 
