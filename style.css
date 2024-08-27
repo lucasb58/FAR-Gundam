@@ -8,11 +8,11 @@ p {
    font-size: 20px;
    padding: 20 px; 
    border-width: 10 px;
-   margin: 20 px;
+   margin: 40 px;
    border-style: dashed;
-   width: 800px;
-   
    padding: 15px;
+   display: block;
+   width: 800px
    
       
 	
@@ -26,21 +26,39 @@ img{
 	padding: 10px;
 	border-width: 10 px;
 	border-style: solid;
-	display:inline;
+
+	margin: 40 px
 }
 
 .Img1{
-	
-	float: right
+	display:inline; 
+	float: right;
 }
 
 .Img2{
-	
-	float: right
+	display: inline; 
+	float: left;
 }
 
 .Img3{
 	
-	float: left
+	float: right;
+	display: block:
+}
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: orange;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color:gray ;
 }
 
