@@ -35,17 +35,6 @@ img{
 	float: right;
 }
 
-.Img2{
-	display: inline; 
-	float: left;
-}
-
-.Img3{
-	
-	float: right;
-	display: block:
-}
-
 a:link {
   color: blue;
 }
