@@ -4,8 +4,4 @@ $(document).ready(function() {
 		$(this).children().slideToggle("slow");
 	});
 	
-	$(".Gundam").click(function(){
-		$(this).next().slideToggle("slow");
-	});
-	
 });
